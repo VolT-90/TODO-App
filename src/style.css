@@ -1,0 +1,20 @@
+body{
+  background-color: black;
+}
+
+.home{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1{
+  color: aliceblue;
+}
+
+input{
+  border-radius: 5px;
+  width: 381px;
+  height: 40;
+}
